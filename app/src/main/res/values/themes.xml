@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.SimpleAlarms" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Thêm tuỳ chỉnh màu sắc nếu cần -->
+    </style>
+
+</resources>
